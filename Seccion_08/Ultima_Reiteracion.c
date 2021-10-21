@@ -5,7 +5,7 @@
 **
 ** Autores: Roxanyffer Andreina Velasco Contreras & Brayan Stiven Castañeda Cruz
 **
-** Descripción: El programa a continuación elimina la utlima reiteración de un caracter determinado 
+** Descripción: El programa a continuación elimina un caracter determinado 
 **              en una cadena dada.
 **
 ** Nota: Para ejecutar este programa se necesita de un entorno linux y registrar 
