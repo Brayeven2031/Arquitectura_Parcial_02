@@ -158,7 +158,7 @@ int main(){
             case 7:
                                 
                 printf("\n");
-                printf(">>> Digite otro numero: ");
+                printf(">>> Digite un numero: ");
                 scanf("%lf", &num1);
                 
                 printf("--> El seno de %lf es: %lf \n", num1, seno(num1));
@@ -167,7 +167,7 @@ int main(){
             case 8:
                                 
                 printf("\n");
-                printf(">>> Digite otro numero: ");
+                printf(">>> Digite un numero: ");
                 scanf("%lf", &num1);
                 
                 printf("--> El coseno de %lf es: %lf \n", num1, coseno(num1));
@@ -176,7 +176,7 @@ int main(){
             case 9:
                                 
                 printf("\n");
-                printf(">>> Digite otro numero: ");
+                printf(">>> Digite un numero: ");
                 scanf("%lf", &num1);
                 
                 printf("--> La tangente de %lf es: %lf \n", num1, tangente(num1));
